@@ -144,3 +144,6 @@ Multi-role product (**crew**, **host**, **admin**) with a large entity model cov
 Source access, demos, and technical discussions are available by request only.
 
 **License:** Proprietary. Screenshots and this overview may be shared for portfolio purposes; code is not licensed for public redistribution.
+## TestDriver experiment (2026-11-16)
+Live app URL for sandbox: https://getcrewzi.com
+
